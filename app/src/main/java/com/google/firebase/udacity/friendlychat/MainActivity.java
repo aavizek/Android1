@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
     public static String current;
     List<AuthUI.IdpConfig> providers;
 
-
+//asdkjfskdjfn
 String a="abs";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
